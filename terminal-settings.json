@@ -1,0 +1,23 @@
+{
+            "background": "#48CAE4",
+            "black": "#0C2233",
+            "blue": "#2544D4",
+            "brightBlack": "#A1A1A1",
+            "brightBlue": "#3A74F7",
+            "brightCyan": "#9EEDDD",
+            "brightGreen": "#1DFF0F",
+            "brightPurple": "#B4009E",
+            "brightRed": "#E74856",
+            "brightWhite": "#FAFAFA",
+            "brightYellow": "#FFF6A9",
+            "cursorColor": "#1A2B35",
+            "cyan": "#3993D9",
+            "foreground": "#000000",
+            "green": "#128C0B",
+            "name": "AnGol 67",
+            "purple": "#881798",
+            "red": "#C50F1F",
+            "selectionBackground": "#AFA9EC",
+            "white": "#E6E6E6",
+            "yellow": "#9E7A00"
+        }
